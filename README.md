@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maleeha Imran
 - 👀 I’m interested in ui ux
 - 🌱 I’m currently learning c++ dsa
-- 📫 How to reach me through email malihaimran526@gmail.com
+- 📫 Reach me through email malihaimran526@gmail.com
 - 😄 Pronouns: she/her...
 - 
 
